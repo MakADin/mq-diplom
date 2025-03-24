@@ -116,6 +116,7 @@
 
 .post-preview {
   min-width: 300px;
+  min-height: 250px;
 }
 
 .post-image {
