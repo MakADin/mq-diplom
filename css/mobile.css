@@ -21,7 +21,7 @@
 /* header */
 
 .header {
-  background-image: url(/images/banner-mobile.jpg);
+  background-image: url(../images/banner-mobile.jpg);
   margin-bottom: 35px;
   min-height: 639px;
 }

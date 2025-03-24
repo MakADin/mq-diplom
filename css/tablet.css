@@ -9,7 +9,7 @@
 /* header */
 
 .header {
-  background-image: url(/images/banner-bg-tablet.jpg);
+  background-image: url(../images/banner-bg-tablet.jpg);
   min-height: 392px;
   margin-bottom: 42px;
 }
