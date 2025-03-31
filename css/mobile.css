@@ -5,7 +5,7 @@
 
 .container {
   padding-inline: var(--container-padding);
-  padding-right: 0;
+  /* padding-right: 0; */
 }
 
 /* popup */
@@ -37,8 +37,8 @@
 }
 
 .connect:hover .header-menu-list {
-  right: 24px;
-  top: 24px;
+  right: 40px;
+  top: 30px;
 }
 
 .header-logo-image {

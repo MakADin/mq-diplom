@@ -51,6 +51,11 @@
   font-weight: 700;
 }
 
+.header-menu-link:hover {
+  color: #b59f5b;
+  text-decoration: none;
+}
+
 .header-title {
   font-size: 4rem;
   line-height: 55px;
