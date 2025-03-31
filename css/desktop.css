@@ -457,6 +457,10 @@ h6 {
   line-height: 24px;
 }
 
+.trend-subtitle-link:hover {
+  color: var(--color-yellow-gray);
+}
+
 .categories-list {
   display: flex;
   flex-wrap: wrap;
@@ -600,6 +604,7 @@ h6 {
   font-size: 14px;
   line-height: 16px;
   color: var(--color-dark);
+  display: block;
 }
 .sidebar-post-link:hover {
   color: var(--color-yellow-gray);
